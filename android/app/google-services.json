@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997513048298",
+    "project_id": "jamupdates-bcaae",
+    "storage_bucket": "jamupdates-bcaae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997513048298:android:8eb5a61e6cbc9917bc2793",
+        "android_client_info": {
+          "package_name": "com.example.japost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997513048298-kaqogdsrdkefua8dmc56s95qt9k4r2bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHB3IQQ3NvoFfZ4nbHLHCqNwLl3uuEEBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997513048298-kaqogdsrdkefua8dmc56s95qt9k4r2bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
