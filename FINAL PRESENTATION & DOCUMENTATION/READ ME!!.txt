@@ -1,0 +1,4 @@
+The admin credentials are
+
+email: admin@gmail.com
+password: 123456
